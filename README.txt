@@ -1,0 +1,2 @@
+To run: Build and Execute P3 located in /src/p3. The file pg20776.txt is the file used for building the hash table
+Also outputs the frequencies and words to pg20776Frequencies.txt, in addition to the console. 
